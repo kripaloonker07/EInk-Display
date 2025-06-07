@@ -54,6 +54,7 @@ Waveshare provides a GitHub repository with drivers and examples.
 
 🔗 **Download from GitHub**:
 [📦 Waveshare E-Paper Library](https://github.com/waveshare/e-Paper)
+[GxEPD2 library](https://github.com/ZinggJM/GxEPD2)
 
 For Arduino:
 
